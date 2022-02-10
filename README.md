@@ -40,6 +40,8 @@
       2. **Count** : after this , the number of people already in the mall are checked , and entry is allowed iff the count is strictly less than the maximum threshold value.
         
             <img src = "./images/entry_suc.png">
+            <br>
+            <br>
             <img src = "./images/notif.png">
         
 
